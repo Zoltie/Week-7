@@ -9,6 +9,8 @@ Time spent: **X** hours spent in total
     - Vulnerability types: Reflective Cross Site Scripting
     - Tested in version: Wordpress 4.2
     - Fixed in version: Wordpress 4.6
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: <img src="https://gph.is/2QVLqbS" width="800">
   - [ ] Steps to recreate: Add a comment on one of the 
   - [ ] Affected source code:
+
+https://gph.is/2QVLqbS
