@@ -10,7 +10,3 @@ Time spent: **X** hours spent in total
     - Tested in version: Wordpress 4.2
     - Fixed in version: Wordpress 4.6
   - [ ] GIF Walkthrough: <img src="https://media.giphy.com/media/9x1dCoGSs7KJ0gOctS/giphy.gif" width="800">
-  - [ ] Steps to recreate: Add a comment on one of the 
-  - [ ] Affected source code:
-
-https://gph.is/2QVLqbS
